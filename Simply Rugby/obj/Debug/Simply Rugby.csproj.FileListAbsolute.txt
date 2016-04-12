@@ -1,0 +1,25 @@
+C:\Users\20083371\Desktop\Simply Rugby - Copy\obj\Debug\SimplyRugby.Board.resources
+C:\Users\20083371\Desktop\Simply Rugby - Copy\obj\Debug\SimplyRugby.FormPlayers.resources
+C:\Users\20083371\Desktop\Simply Rugby - Copy\obj\Debug\Simply Rugby.csproj.GenerateResource.Cache
+C:\Users\20083371\Desktop\Simply Rugby - Copy\obj\Debug\Simply Rugby.exe
+C:\Users\20083371\Desktop\Simply Rugby - Copy\obj\Debug\Simply Rugby.pdb
+C:\Users\20083371\Desktop\Simply Rugby - Copy\Simply Rugby.exe
+C:\Users\20083371\Desktop\Simply Rugby - Copy\Simply Rugby.pdb
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\Simply Rugby.exe
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\Simply Rugby.pdb
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\Simply Rugby.csprojResolveAssemblyReference.cache
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\SimplyRugby.Board.resources
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\SimplyRugby.FormPlayers.resources
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\obj\Debug\Simply Rugby.csproj.GenerateResource.Cache
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\Simply Rugby.exe
+E:\Jordan Aitken - Simply Rugby\Simply Rugby\Simply Rugby.pdb
+F:\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.exe
+F:\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.pdb
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.exe
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.pdb
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.csprojResolveAssemblyReference.cache
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\SimplyRugby.Board.resources
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\SimplyRugby.FormPlayers.resources
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\obj\Debug\Simply Rugby.csproj.GenerateResource.Cache
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\Simply Rugby.exe
+E:\Stuff\Jordan Aitken - Simply Rugby\Jordan Aitken Implementation\Simply Rugby\Simply Rugby.pdb
